@@ -48,7 +48,7 @@ Black, Dark Gray, Khaki, Tan Desert, Olive, Navy
 
 ## Credits
 
-Design inspired by [**Sliders**](https://apps.garmin.cn/apps/f52a5fbd-f781-41b7-8cda-f407b669706b) watch face for Garmin by QuickApps ([dawnrunner](https://paypal.me/dawnrunner)), which is based on an original concept by fibonacci studios.
+Design inspired by [**Sliders Vartical**](https://apps.garmin.cn/apps/2f3c810a-7f81-4716-b4a9-d39f4445ded2) watch face for Garmin by QuickApps ([dawnrunner](https://paypal.me/dawnrunner)), which is based on an original concept by fibonacci studios.
 
 ## License
 
