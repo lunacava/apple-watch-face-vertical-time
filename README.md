@@ -14,7 +14,11 @@ A standalone watchOS app that displays time as a vertical sliding timeline, insp
 
 ## Screenshots
 
-*Coming soon*
+<p align="center">
+  <img src="screenshots/timeline-red.jpg" width="240" />
+  <img src="screenshots/timeline-blue.jpg" width="240" />
+  <img src="screenshots/timeline-black.jpg" width="240" />
+</p>
 
 ## Requirements
 
