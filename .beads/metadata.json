@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "apple_watch_face",
+  "project_id": "e30c1f32-4eb3-4f6f-b5f7-0999a2403bda"
+}
