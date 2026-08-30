@@ -3,6 +3,7 @@ build/
 DerivedData/
 *.xcodeproj/xcuserdata/
 *.xcworkspace/xcuserdata/
+*.xcuserstate
 *.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 
 # macOS
